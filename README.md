@@ -18,13 +18,7 @@ Version  | Compressed |
 | 2.3  | 20921619 bytes  |
 | 2.3.1  | 20418854 bytes  |
 
-
-### Prerequisites
-
-In order to compile Tangelo you need a C++ compiler.
-
-
-### Installation
+### Compiling
 
 Compiling from the command line in Windows using the Microsoft C/C++ Optimizing Compiler:
 
