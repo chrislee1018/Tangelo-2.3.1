@@ -6,7 +6,7 @@ Tangelo is a single file compressor which was derived from PAQ8 by Matt Mahoney 
 
 ## Purpose
 
-The purpose of this project is to amend memory usage, the state table and state map in Tangelo 2.3 in order to improve the compression achieved.
+The purpose of this project is to amend memory usage, the state table and state map in Tangelo 2.3 to improve the compression achieved.
 
 
 ## Results
