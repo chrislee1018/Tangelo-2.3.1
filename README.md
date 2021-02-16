@@ -20,6 +20,8 @@ Version  | Compressed |
 
 ### Compiling
 
+Tangelo does not have any dependencies and it should be possible to compile it using any standard C++ compiler.
+
 Compiling from the command line in Windows using the Microsoft C/C++ Optimizing Compiler:
 
 `cl tangelo.cpp /Ox`
