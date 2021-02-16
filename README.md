@@ -6,16 +6,10 @@ Tangelo is a single file compressor which was derived from PAQ8 by Matt Mahoney 
 
 ## Purpose
 
-The purpose of this project is to amend multiple features of Tangelo, such as the state table and state map, to improve compression without a meaningful impact on execution time.
+The purpose of this project is to amend memory usage, the state table and state map in Tangelo 2.3 in order to improve the compression achieved.
+
 
 ## Results
-
-
-
-
-existed in several versions since 2013, seeking a balance between high compression ratios and speed.
-
-
 
 This version of Tangelo is benchmarked against the [enwik8 dataset](https://cs.fit.edu/~mmahoney/compression/textdata.html) and, for reference, the dataset is included in this repository.
 
@@ -23,13 +17,6 @@ Version  | Compressed |
 | ------------- | ------------- |
 | 2.3  | 20921619 bytes  |
 | 2.3.1  | 20418854 bytes  |
-
-
-
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 ### Prerequisites
