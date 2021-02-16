@@ -2,7 +2,20 @@
 
 ## Introduction
 
-Tangelo is a single file compressor (not an archiver) which was derived from PAQ8 by Matt Mahoney and has existed in multiple versions since 2013, seeking a balance between high compression ratios and speed.
+Tangelo is a single file compressor which was derived from PAQ8 by Matt Mahoney and has been in development since 2013, seeking a balance between compression ratios and speed.
+
+## Purpose
+
+The purpose of this project is to amend multiple features of Tangelo, such as the state table and state map, to improve compression without a meaningful impact on execution time.
+
+## Results
+
+
+
+
+existed in several versions since 2013, seeking a balance between high compression ratios and speed.
+
+
 
 This version of Tangelo is benchmarked against the [enwik8 dataset](https://cs.fit.edu/~mmahoney/compression/textdata.html) and, for reference, the dataset is included in this repository.
 
