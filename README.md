@@ -33,8 +33,3 @@ Compiling from the command line in Windows using the Microsoft C/C++ Optimizing 
 Compiling from the command line in Linux using g++:
 
 `g++ tangelo.cpp -Wall -Wextra -O3 -s -fomit-frame-pointer -o tangelo.exe`
-
-Version  | Compressed |
-| ------------- | ------------- |
-| 2.3  | 20921619 bytes  |
-| 2.3.1  | 20418854 bytes  |
