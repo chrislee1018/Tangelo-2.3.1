@@ -32,7 +32,7 @@ Compiling from the command line in Windows using the Microsoft C/C++ Optimizing 
 
 Compiling from the command line in Linux using g++:
 
-`g++ tangelo.cpp -Wall -Wextra -O3 -s -march=pentium4 -mtune=pentiumpro -fomit-frame-pointer -o tangelo.exe`
+`g++ tangelo.cpp -Wall -Wextra -O3 -s -fomit-frame-pointer -o tangelo.exe`
 
 Version  | Compressed |
 | ------------- | ------------- |
